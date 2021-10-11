@@ -232,6 +232,7 @@ header {
 }
 
 .work__back {
+  display: block;
   width: 100%;
   max-width: 678px;
   margin: 0 auto;
